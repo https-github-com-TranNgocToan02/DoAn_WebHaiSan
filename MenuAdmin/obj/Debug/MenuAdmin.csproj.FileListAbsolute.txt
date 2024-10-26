@@ -1,0 +1,7 @@
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\MenuAdmin\bin\Debug\MenuAdmin.dll
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\MenuAdmin\bin\Debug\MenuAdmin.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\MenuAdmin\obj\Debug\MenuAdmin.csproj.GenerateResource.Cache
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\MenuAdmin\obj\Debug\MenuAdmin.dll
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\MenuAdmin\obj\Debug\MenuAdmin.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\MenuAdmin\obj\Debug\MenuAdmin.Properties.Resources.resources
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\MenuAdmin\obj\Debug\MenuAdmin.Menu.resources

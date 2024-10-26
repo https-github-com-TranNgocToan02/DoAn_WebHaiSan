@@ -1,0 +1,15 @@
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.Properties.Resources.resources
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.csproj.GenerateResource.cache
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\bin\Debug\AdminWebHaiSan.exe.config
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.Dang_Nhap.resources
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\bin\Debug\AdminWebHaiSan.exe
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\bin\Debug\AdminWebHaiSan.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\bin\Debug\Log_in.dll
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\bin\Debug\Log_in.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.exe
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.csprojResolveAssemblyReference.cache
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.KhachHang.resources
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\bin\Debug\MenuAdmin.dll
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\bin\Debug\MenuAdmin.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\AdminWebHaiSan\obj\Debug\AdminWebHaiSan.SanPham.resources

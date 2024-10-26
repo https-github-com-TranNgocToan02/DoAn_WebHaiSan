@@ -1,0 +1,8 @@
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\bin\Debug\Log_in.dll
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\bin\Debug\Log_in.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\obj\Debug\Log_in.Login.resources
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\obj\Debug\Log_in.csproj.GenerateResource.cache
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\obj\Debug\Log_in.dll
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\obj\Debug\Log_in.pdb
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\obj\Debug\Log_in.csproj.AssemblyReference.cache
+D:\FILE SV\PhatTrienAI\AdminWebHaiSan\Log_in\obj\Debug\Log_in.csproj.CoreCompileInputs.cache
